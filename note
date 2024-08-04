@@ -15,3 +15,6 @@ ________________
 
 npm create vite@4.2.0
 
+cd vite-project
+npm install
+npm npm run dev
