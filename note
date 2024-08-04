@@ -1,0 +1,17 @@
+cài đặt nvm-windows 
+
+nvm version
+
+nvm install 16.13.1
+
+nvm uninstall 14.17.0
+
+nvm list 
+
+nvm use 16.13.1 
+
+________________
+
+
+npm create vite@4.2.0
+
